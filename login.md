@@ -30,11 +30,10 @@ If you do not know your library's username and password for ShareIt, contact the
 
 ## Example logon
 
-  
+
+
+![Logon screen](.gitbook/assets/010.jpg)
 
 ![Logon screen](.gitbook/assets/020.jpg)
 
 ![Logon screen](.gitbook/assets/030.jpg)
-
-![Logon screen](.gitbook/assets/010.jpg)
-
