@@ -10,5 +10,4 @@ Once you're logged in, the basic setup for public libraries requires that you fi
 
 ![Basic public library setup](.gitbook/assets/090.jpg)
 
-
-.pgend.
+ <img src="https://raw.githubusercontent.com/will1410/shareit/master/.gitbook/assets/090.jpg" alt="Basic public library setup"> 
