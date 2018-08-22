@@ -59,6 +59,10 @@ The difference between this URL and the previous one is that the last part of th
 
 You can also try clearing the history/cache on your web browser.  In Firefox and Chrome you can accomplish this by typing CTRL-SHIFT-DELETE and following the on-screen instructions to delete all of your saved Cookies, Cache, and Content.
 
+---
+
+As always, if you have any problems you can contact NEKLS or the State Library of Kansas for assistance.  Next Search Catalog members can contact us at nexthelp@nekls.org.
+
 ## ShareIt Usernames and Passwords
 
-If you do not know your library's username and password for ShareIt, contact the NEKLS office or the State Library of Kansas.  Next Search Catalog members can contact us at nexthelp@nekls.org.  We cannot recover any lost passwords, but we can create a new password for you.
+If you do not know your library's username and password for ShareIt, contact the NEKLS office or the State Library of Kansas.  Next Search Catalog members can contact us at nexthelp@nekls.org.  We cannot recover any lost passwords, but we can easily create a new password for you.
