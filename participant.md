@@ -10,4 +10,4 @@ Once you're logged in, the basic setup for public libraries requires that you fi
 
 ![Basic public library setup](.gitbook/assets/090.jpg)
 
- <img src="https://raw.githubusercontent.com/will1410/shareit/master/.gitbook/assets/090.jpg" alt="Basic public library setup" height="100%" width="100%"> 
+ <img src="https://raw.githubusercontent.com/will1410/shareit/master/.gitbook/assets/090.jpg" alt="Basic public library setup" height="1000" width="85000"> 
