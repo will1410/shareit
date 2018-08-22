@@ -4,12 +4,15 @@
 ## Example logon
 
 Go to your [ShareIt URL](#shareit-urls)
+
 ![Logon screen](.gitbook/assets/010.jpg)
 
 Login with your ShareIt [username and password](#shareit-usernames-and-passwords)
+
 ![Username and password](.gitbook/assets/020.jpg)
 
 A successfull login should look like this:
+
 ![Success](.gitbook/assets/030.jpg)
 
 If you have trouble logging in, keep reading.
