@@ -17,7 +17,7 @@ A successfull login should look like this:
 
 If you have trouble logging in, keep reading.
 
-## ShareIt URLs
+### ShareIt URLs
 
 ShareIt requires that each library logs in from a specific URL.
 
@@ -51,9 +51,9 @@ If you see either of these scenarios, you can try an alternative URL
 http://ksuc-agent.auto-graphics.com/mvc?cid=ksuc&lid=XXX&reset=force
 ```
 
-The difference between this URL and the previous one is that the last part of the URL is changed from "over" to "force"
+The difference between this URL and the previous one is that the last part of the URL is changed from "over" to "force" (you will need to put your OCLC symbol where the XXX is in this URL too).
 
-***
+---
 
 You can also try clearing the history/cache on your web browser.  In Firefox and Chrome you can accomplish this by typing CTRL-SHIFT-DELETE and following the on-screen instructions to delete all of your saved Cookies, Cache, and Content.
 
