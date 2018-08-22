@@ -35,6 +35,8 @@ The difference between one library's login and another's is that you have to sub
 
 If you are a member of the Next consortium, you can find the ShareIt URL for your library on the left side of the home page in the staff client.
 
+![Next Share Catalog link](.gitbook/assets/060.jpg)
+
 ## URL Troubleshooting
 
 If you attempt to log into ShareIt and you do not get the normal login window, you can usually overcome the problem by logging into this alternate URLs
