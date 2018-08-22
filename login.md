@@ -29,7 +29,3 @@ If you are a member of the Next consortium, you can find the ShareIt URL for you
 If you do not know your library's username and password for ShareIt, contact the NEKLS office or the State Library of Kansas.
 
 ## Example logon
-
-![Logon screen](.gitbook/assets/010.jpg)
-![Logon screen](.gitbook/assets/020.jpg)
-![Logon screen](.gitbook/assets/030.jpg)
