@@ -6,7 +6,9 @@ ShareIt requires that each library logs in from a specific URL.
 
 The format for a ShareIt login URL is
 
-[http://ksuc-agent.auto-graphics.com/mvc?cid=ksuc&lid=XXX&reset=over](http://ksuc-agent.auto-graphics.com/mvc?cid=ksuc&lid=XXX&reset=over)
+```html
+http://ksuc-agent.auto-graphics.com/mvc?cid=ksuc&lid=XXX&reset=over
+```
 
 The difference between one library's login and another's is that you have to substitute the XXX in the middle of the above URL with your library's OCLC organization symbol. If you do not know your library's OCLC organization symbol, it can be found at
 
