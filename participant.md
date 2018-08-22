@@ -9,3 +9,6 @@ Log into ShareIt as normal, then click on the link that says "Staff dashboard," 
 Once you're logged in, the basic setup for public libraries requires that you fill in the fields highlighted in green:
 
 ![Basic public library setup](.gitbook/assets/090.jpg)
+
+
+.pgend.
