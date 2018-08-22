@@ -3,7 +3,7 @@
 
 ## Example logon
 
-Go to your [ShareIt URL](## ShareIt URLs)
+Go to your [ShareIt URL](#shareit-urls)
 ![Logon screen](.gitbook/assets/010.jpg)
 
 Login with your username and password
