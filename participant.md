@@ -9,5 +9,3 @@ Log into ShareIt as normal, then click on the link that says "Staff dashboard," 
 Once you're logged in, the basic setup for public libraries requires that you fill in the fields highlighted in green:
 
 ![Basic public library setup](.gitbook/assets/090.jpg)
-
- <img src="https://raw.githubusercontent.com/will1410/shareit/master/.gitbook/assets/090.jpg" alt="Basic public library setup" height="1000" width="85000"> 
