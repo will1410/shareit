@@ -9,4 +9,3 @@
   * [Borrows](managing/borrows.md)
 * [Copy cataloging](cataloging/README.md)
   * [Adding a title to Next Search Catalog from ShareIt](cataloging/adding-a-title.md)
-
