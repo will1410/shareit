@@ -3,7 +3,7 @@
 These are the items you are trying to borrow from another library.
 
 * Awaiting Approval = Your library's requests that need final approval.
-__Options__
+ - __Options__
 
   1. Approved - send
   2. Cancel
@@ -12,12 +12,12 @@ __Options__
 __Some libraries are configured to allow patrons to place their own ILL requests.  The approval process allows staff to verify that an ILL request meets their library's ILL policies.__
 
 * Not Received = An item you library has requested has been shipped but has been in transit for longer than the owning library's "Days to supply."
-__Options__
+ - __Options__
   1. Received
   2. Lost
 
 * Not-Received/Overdue = An item you library has requested had a status of "Not received" and the owning library has changed the status of the item to "Not-Received/Overdue"
-__Options__
+ - __Options__
   1. Received
   2. Lost
 __This indicates that the owning library has probably sent an overdue notice to your library.__
