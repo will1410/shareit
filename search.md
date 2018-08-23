@@ -5,7 +5,7 @@
 
 The search box appears at the top of every screen in ShareIt.
 
-![Search box](.gitbook/assets/100.jpg)
+![Search box](.gitbook/assets/100-searching.jpg)
 
 The search will automatically search the catalogs selected by default for your library.  The defaults can be changed from the "Search resources" menu on the staff dashboard.
 
