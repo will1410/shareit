@@ -5,27 +5,27 @@
 
 The search box appears at the top of every screen in ShareIt.
 
-![Search box](.gitbook/assets/100.png)
+![Search box](.gitbook/assets/100.jpg)
 
 The search will automatically search the catalogs selected by default for your library.  The defaults can be changed from the "Search resources" menu on the staff dashboard.
 
-![Catalog search defaults](.gitbook/assets/110.png)
+![Catalog search defaults](.gitbook/assets/110.jpg)
 
 ## Search results
 
-__Insert Day of the Jackal scrolled search.  Include facets; quick request; view details; and catalog name.__
+![Search results](.gitbook/assets/120.jpg)
 
 ## Detailed results 1
 
 Clicking on "View details" will give you more detailed results.
 
-![Details 1](.gitbook/assets/130.png)
+![Details 1](.gitbook/assets/130.jpg)
 
 ## Detailed results 2
 
 Clicking on the cover of an item will give you even more details.
 
-__Insert screen shot of details 2 - include request; multi-copy; note the download link but don't describe it in any detail.__
+![Details 2](.gitbook/assets/140.jpg)
 
 # Requests
 
