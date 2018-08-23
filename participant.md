@@ -8,6 +8,4 @@ Log into ShareIt as normal, then click on the link that says "Staff dashboard," 
 
 Once you're logged in, the basic setup for public libraries requires that you fill in the fields highlighted in green in this screenshot:
 
-https://will1410.github.io/shareit/html/participant.record.html
-
-![Basic public library setup](.gitbook/assets/090.jpg)
+<a href="https://will1410.github.io/shareit/html/participant.record.html" target="\_blank">See detailed screenshot in a new window</a>
