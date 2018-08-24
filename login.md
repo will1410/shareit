@@ -47,6 +47,7 @@ The most common URL problem looks like this:
 
 ![Two input boxes](.gitbook/assets/050.jpg)
 
+
 If you see either of these scenarios, you can try an alternative URL
 
 ```html
