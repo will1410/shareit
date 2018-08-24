@@ -9,21 +9,15 @@ Go to your `ShareIt URL`_
 .. figure:: .gitbook/assets/010.jpg
    :alt: Logon screen
 
-   Logon screen
-
 Login with your ShareIt `username and password`_
 
 .. figure:: .gitbook/assets/020.jpg
    :alt: Username and password
 
-   Username and password
-
 A successfull login should look like this:
 
 .. figure:: .gitbook/assets/030.jpg
    :alt: Success
-
-   Success
 
 If you have trouble logging in, keep reading.
 
@@ -54,8 +48,6 @@ for your library on the left side of the home page in the staff client.
 .. figure:: .gitbook/assets/060.jpg
    :alt: Next Share Catalog link
 
-   Next Share Catalog link
-
 URL Troubleshooting
 -------------------
 
@@ -68,12 +60,8 @@ The most common URL problem looks like this:
 .. figure:: .gitbook/assets/040.jpg
    :alt: Kansas Library Catalog
 
-   Kansas Library Catalog
-
 .. figure:: .gitbook/assets/050.jpg
    :alt: Two input boxes
-
-   Two input boxes
 
 If you see either of these scenarios, you can try an alternative URL
 
